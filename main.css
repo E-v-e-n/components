@@ -76,3 +76,24 @@
 	background-color: #c9302c;
   border: #ac2925;
 }
+
+.keret {
+	margin: 20px;
+	max-width: 33%;
+	height: 200px;
+	border: 1px solid black;
+}
+
+.gomb {
+	display: inline-block;
+	text-decoration: none;
+	padding: 15px;
+	margin: 5px;
+	border: 1px solid black;
+	color: black;
+}
+
+.gomb:hover {
+	background-color: black;
+	color: white;
+}
