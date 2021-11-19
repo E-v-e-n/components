@@ -91,9 +91,11 @@
 	margin: 5px;
 	border: 1px solid black;
 	color: black;
+	font-family:sans-serif;
 }
 
 .gomb:hover {
 	background-color: black;
 	color: white;
+	transition: background-color .5s ease-in-out;
 }
